@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=200&section=header&text=Victor%20Haua&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20UFRJ%20Student&descAlignY=51&descAlign=62" alt="Header Victor Haua" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=200&section=header&text=Victor%20Haua&fontSize=90&animation=fadeIn&fontAlignY=25&desc=Backend%20Developer%20|%20UFRJ%20Student&descAlignY=51&descAlign=62" alt="Header Victor Haua" />
 </div>
 
 <h1 align="center">Olá, eu sou o Victor! 👋</h1>
@@ -19,7 +19,7 @@
 
 Sou estudante universitário na **UFRJ** e Técnico em Mecânica pela FAETEC. Tenho um perfil focado, organizado e com grande facilidade de aprendizado. Busco construir experiências fantásticas através da tecnologia, aplicando boas práticas como **TDD, DDD e SOLID**.
 
-* 🔭 Atualmente trabalhando em projetos pessoais de **Backend** e **Automação**.
+* 🔭 Atualmente trabalhando em projetos comerciais de **Backend** e **Automação**.
 * 📚 Estudando **Cloud Computing (AWS/Azure)** e arquitetura de software.
 * 🧠 Interesse especial em **Algoritmos Matemáticos** e otimização.
 * 💬 Pergunte-me sobre **Node.js, C++ ou Cálculos de Integrais!**
@@ -52,18 +52,20 @@ Minha caixa de ferramentas técnica:
 
 | Projeto | Descrição | Techs |
 | :--- | :--- | :--- |
+| **☁️ Onis (Backend)** | Desenvolvimento de APIs REST, bibliotecas e integração com soluções Cloud. (Autorizado para amostra) | `Node.js` `MongoDB` `AWS` |
 | **🧮 Calculadora Científica** | Capaz de calcular limites, derivadas e integrais. Foco em lógica matemática complexa. | `C++` `Algoritmos` |
 | **🍽️ Mealnerva** | Protótipo de app para otimizar o tempo e eficiência nas filas do almoço universitário. | `Mobile` `UX` |
-| **☁️ Onis (Backend)** | Desenvolvimento de APIs REST, bibliotecas e integração com soluções Cloud. | `Node.js` `MongoDB` `AWS` |
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🧠 Metodologias e Fluxo de Trabalho
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MegaHaua&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MegaHaua&layout=compact&theme=dracula"/>
-</div>
+Não escrevo apenas código que funciona, foco em código limpo e escalável. Minhas práticas incluem:
+
+* 🧪 **TDD (Test Driven Development):** Testes antes da implementação para garantir robustez.
+* 🏗️ **SOLID & DDD:** Arquitetura limpa para projetos fáceis de manter e crescer.
+* ☁️ **Cloud First:** Pensamento voltado para implantação em nuvem (AWS/Azure).
+* 🔄 **CI/CD:** Interesse em automação e integração contínua.
 
 ---
 
